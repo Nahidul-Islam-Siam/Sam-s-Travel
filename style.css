@@ -229,6 +229,122 @@ ul > li {
   height: 286px;
 }
 
+.row1-img1{
+  position: relative;
+  border-radius: 16px;
+background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url("./img/Rectangle-5.png"), lightgray 50% / cover no-repeat;
+width: 573px;
+height: 300px;
+flex-shrink: 0;
+}
+.row1-img1 h3{
+
+}
+.row1-img2{
+  position: relative;
+  background:url("./img/Rectangle-8.png"), lightgray -101px -108.075px / 135.253% 172.05% no-repeat;
+  width: 573px;
+height: 300px;
+flex-shrink: 0;
+}
+.row1-img2 h3{
+
+}
+.row2-img1{
+  position: relative;
+border-radius: 16px;
+background: url("./img/Rectangle-6.png"), lightgray 50% / cover no-repeat;
+width: 374px;
+height: 286px;
+flex-shrink: 0;
+}
+.row2-img1 h3{
+
+}
+.row2-img2{
+  position: relative;
+  width: 474px;
+height: 286px;
+flex-shrink: 0;
+  border-radius: 16px;
+  background: url("./img/Rectangle-7.png"), lightgray 50% / cover no-repeat;
+}
+.row2-img2 h3{
+  top: 50%;
+  position: absolute;
+  color: #FFF;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.row2-img3{
+  position: relative;
+  width: 274px;
+height: 286px;
+flex-shrink: 0;
+  border-radius: 16px;
+  background: url("./img/Rectangle-9.png"), lightgray 50% / cover no-repeat;
+}
+.row2-img3 h3{
+  top: 50%;
+  position: absolute;
+  color: #FFF;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.row3-img1{
+  position: relative;
+  width: 473px;
+height: 300px;
+flex-shrink: 0;
+  border-radius: 16px;
+  background: url("./img/Rectangle-11.png"), lightgray 50% / cover no-repeat;
+}
+.row3-img1 h3{
+  top: 50%;
+  position: absolute;
+  color: #FFF;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.row3-img2{
+  position: relative;
+  width: 673px;
+height: 300px;
+flex-shrink: 0;
+  border-radius: 16px;
+  background: url("./img/Rectangle-10.png"), lightgray 50% / cover no-repeat;
+}
+.row3-img2 h3{
+  top: 50%;
+  position: absolute;
+  color: #FFF;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
 .sec-5 {
   margin-top: 80px;
 }
