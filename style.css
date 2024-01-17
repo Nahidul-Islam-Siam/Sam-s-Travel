@@ -178,7 +178,7 @@ ul > li {
 .mounten {
   flex-shrink: 0;
   border-radius: 16px;
-  background: url("../img/Rectangle4.png"), lightgray 50% / cover no-repeat;
+  background: url("./img/Rectangle4.png"), lightgray 50% / cover no-repeat;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
