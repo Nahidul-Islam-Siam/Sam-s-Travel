@@ -89,7 +89,7 @@ p {
 }
 
 .hero-container {
-  background-image: url("../img/hero.png");
+  background-image: url("./img/hero.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
